@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IgnatiusethensM
-- 👀 I’m interested in data science and artificial intelligence
+- 👀 I’m interested in data science and artificial intelligence and web development 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data analytics
 - 📫 How to reach me ..+254112604627
